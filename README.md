@@ -1,1 +1,1 @@
-# GitHub-Task
+# GitHubTask
